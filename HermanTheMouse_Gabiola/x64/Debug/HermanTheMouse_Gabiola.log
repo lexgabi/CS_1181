@@ -1,0 +1,5 @@
+﻿  HermanTheMouse_Gabiola.cpp
+C:\Users\Lexee Gabiola\source\repos\HermanTheMouse_Gabiola\HermanTheMouse_Gabiola.cpp(37,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lexee Gabiola\source\repos\HermanTheMouse_Gabiola\HermanTheMouse_Gabiola.cpp(49,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lexee Gabiola\source\repos\HermanTheMouse_Gabiola\HermanTheMouse_Gabiola.cpp(179,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HermanTheMouse_Gabiola.vcxproj -> C:\Users\Lexee Gabiola\source\repos\HermanTheMouse_Gabiola\x64\Debug\HermanTheMouse_Gabiola.exe
